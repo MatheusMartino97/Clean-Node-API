@@ -1,0 +1,20 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMartino97/Clean-Node-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMartino97/Clean-Node-API/issues"
+  },
+  "homepage": "https://github.com/MatheusMartino97/Clean-Node-API#readme"
+}
