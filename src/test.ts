@@ -1,1 +1,5 @@
-export default 2
+describe('test', () => {
+  it('test', () => {
+
+  })
+})
