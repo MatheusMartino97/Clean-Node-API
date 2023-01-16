@@ -1,5 +1,5 @@
 {
-  "*.{ts, js, json}": [
-    "eslint 'src/**' --fix"
+  "*": [
+    "eslint --fix"
   ]
 }
